@@ -53,11 +53,11 @@
 
 - type: entity
   parent: RMCCalendarBase
-  id: RMCCalendarTWE
-  suffix: TWE
+  id: RMCCalendarTSE
+  suffix: TSE
   components:
   - type: Sprite
-    state: calendar_twe
+    state: calendar_tse
 
 - type: entity
   parent: RMCCalendarBase
