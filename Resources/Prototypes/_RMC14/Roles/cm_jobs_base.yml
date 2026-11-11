@@ -88,3 +88,4 @@
     Silver: RMCMedalSilverNametagService
     Gold: RMCMedalGoldNametagService
     Platinum: RMCMedalPlatinumNametagService
+    Ruby: RMCMedalRubyNametagService
