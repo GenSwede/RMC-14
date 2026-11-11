@@ -566,8 +566,8 @@
       sprite: _RMC14/Objects/Medals/prismatic_nametag.rsi
       state: equipped
 
-  - type: entity
-    parent: RMCMedalPrismaticNametag
-    id: RMCMedalPrismaticNametagService
-    name: exceptional service name badge
-    description: An exclusive orange-and-green engraved name badge, containing the wearer's name, rank, and department. Bestowed upon employees whose extraordinary record of service exemplifies the highest standards of loyalty, professionalism, and commitment to the Weston-Yamada Corporation.
+- type: entity
+  parent: RMCMedalPrismaticNametag
+  id: RMCMedalPrismaticNametagService
+  name: exceptional service name badge
+  description: An exclusive orange-and-green engraved name badge, containing the wearer's name, rank, and department. Bestowed upon employees whose extraordinary record of service exemplifies the highest standards of loyalty, professionalism, and commitment to the Weston-Yamada Corporation.
