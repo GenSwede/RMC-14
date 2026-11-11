@@ -495,7 +495,7 @@
 - type: entity
   parent: RMCMedalBase
   id: RMCMedalRubyNametag
-  name: ruby and black name badge
+  name: dedicated service name badge
   description: A prestigious ruby-black name badge.
   components:
   - type: Sprite
@@ -509,6 +509,27 @@
 - type: entity
   parent: RMCMedalRubyNametag
   id: RMCMedalRubyNametagService
-  name: corporate ruby name badge
-  description: An engraved crimson-and-black name badge, containing the wearer's name, rank, and department. Bestowed upon employees who have demostrated unwavering dedication, professionalism, and longstanding service to the Weston-Yamada Corporation.
+  name: dedicated service name badge
+  description: An engraved crimson-and-black name badge, containing the wearer's name, rank, and department. Bestowed upon employees who have demostrated unwavering dedication, professionalism, and longstanding service to the Weston-Yamada Corporation. It shines upon examination.
+
+- type: entity
+  parent: RMCMedalBase
+  id: RMCMedalAmethystNametag
+  name: distinguished service name badge
+  description: A prestigious purple-black name badge.
+  componets: 
+- type: Sprite
+  sprite: _RMC14/Objects/Medals/amethyst_nametag.rsi
+  state: icon
+- type: UniformAccessory
+  playerSprite: 
+    sprite: _RMC14/Objects/Medals/amethyst_nametag.rsi
+    state: equipped
+
+
+- type: entity
+  parent: RMCMedalAmethystNametag
+  id: RMCMedalAmethystNametagService
+  name: distinguished service name badge
+  description: A prestigious purple-and-black name badge, containing the wearer's name, rank, and department. Presented to employees whose longstanding service and unwavering dedication exemplify the professional standards of the Weston-Yamada Corporation.
   
