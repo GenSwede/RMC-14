@@ -510,7 +510,7 @@
   parent: RMCMedalRubyNametag
   id: RMCMedalRubyNametagService
   name: dedicated service name badge
-  description: An engraved crimson-and-black name badge, containing the wearer's name, rank, and department. Bestowed upon employees who have demostrated unwavering dedication, professionalism, and longstanding service to the Weston-Yamada Corporation. It shines upon examination.
+  description: An engraved crimson-and-black name badge, containing the wearer's name, rank, and department. Bestowed upon employees who have demostrated unwavering dedication, professionalism, and longstanding service to the Weston-Yamada Corporation.
 
 - type: entity
   parent: RMCMedalBase
