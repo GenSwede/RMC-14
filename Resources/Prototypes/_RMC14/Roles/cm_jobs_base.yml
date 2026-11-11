@@ -90,3 +90,4 @@
     Platinum: RMCMedalPlatinumNametagService
     Ruby: RMCMedalRubyNametagService
     Amethyst: RMCMedalAmethystNametagService
+    Emerald: RMCMedalEmeraldNametagService
