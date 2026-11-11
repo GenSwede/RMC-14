@@ -553,7 +553,7 @@
 
   - type: entity
     parent: RMCMedalBase
-    id: RMCMedalPristmaticNametag
+    id: RMCMedalPrismaticNametag
     name: orange and green name badge
     description: an exclusive engraved orange-and-green name badge.
     components:
@@ -566,7 +566,7 @@
           state: equipped
 
   - type: entity
-    parent: RMCMedalPrismaticNametat
+    parent: RMCMedalPrismaticNametag
     id: RMCMedalPrismaticNametagService
     name: exceptional service name badge
     description: An exclusive orange-and-green engraved name badge, bearing the wearer's name, rank, and department. Bestowed upon employees whose extraordinary record of service exemplifies the highest standards of loyalty, professionalism, and commitment to the Weston-Yamada Corporation.
