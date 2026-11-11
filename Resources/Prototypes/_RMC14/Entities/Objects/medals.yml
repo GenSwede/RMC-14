@@ -516,7 +516,7 @@
   id: RMCMedalAmethystNametag
   name: purple and black name badge
   description: A prestigious purple-black name badge.
-  componets: 
+  components: 
   - type: Sprite
     sprite: _RMC14/Objects/Medals/amethyst_nametag.rsi
     state: icon
