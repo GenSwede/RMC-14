@@ -91,3 +91,4 @@
     Ruby: RMCMedalRubyNametagService
     Amethyst: RMCMedalAmethystNametagService
     Emerald: RMCMedalEmeraldNametagService
+    Prismatic: RMCMedalEmeraldNametagService
