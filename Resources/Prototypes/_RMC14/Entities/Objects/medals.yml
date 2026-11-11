@@ -535,7 +535,7 @@
   parent: RMCMedalBase
   id: RMCMedalEmeraldNametag
   name: jade and black name badge
-  description: a prestigious engraved jade-black name badge.
+  description: an exclusive engraved jade-black name badge.
   components:
   - type: Sprite
     sprite: _RMC14/Objects/Medals/emerald_nametag.rsi
@@ -550,4 +550,23 @@
     id: RMCMedalEmeraldNametagService
     name: exemplary service name badge
     description: An exclusive jade-and-black engraved name badge, containing the wearer's name, rank, and department. Awarded to employees whose exceptional record of service reflects the values and principles of the Weston-Yamada Corporation.
-  
+
+  - type: entity
+    parent: RMCMedalBase
+    id: RMCMedalPristmaticNametag
+    name: orange and green name badge
+    description: an exclusive engraved orange-and-green name badge.
+    components:
+      - type: Sprite
+        sprite: _RMC14/Objects/Medals/prismatic_nametag.rsi
+        state: icon
+      - type: UniformAccessory
+        playerSprite:
+          sprite: _RMC14/Objects/Medals/prismatic_nametag.rsi
+          state: equipped
+
+  - type: entity
+    parent: RMCMedalPrismaticNametat
+    id: RMCMedalPrismaticNametagService
+    name: exceptional service name badge
+    description: An exclusive orange-and-green engraved name badge, bearing the wearer's name, rank, and department. Bestowed upon employees whose extraordinary record of service exemplifies the highest standards of loyalty, professionalism, and commitment to the Weston-Yamada Corporation.
