@@ -518,14 +518,13 @@
   name: distinguished service name badge
   description: A prestigious purple-black name badge.
   componets: 
-- type: Sprite
-  sprite: _RMC14/Objects/Medals/amethyst_nametag.rsi
-  state: icon
-- type: UniformAccessory
-  playerSprite: 
+  - type: Sprite
     sprite: _RMC14/Objects/Medals/amethyst_nametag.rsi
-    state: equipped
-
+    state: icon
+  - type: UniformAccessory
+    playerSprite: 
+      sprite: _RMC14/Objects/Medals/amethyst_nametag.rsi
+      state: equipped
 
 - type: entity
   parent: RMCMedalAmethystNametag
