@@ -491,11 +491,10 @@
   name: executive specialist name badge
   description: An engraved gold-and-black badge, containing the wearer's name, rank, and department. The highest rank most executives can reach within their lifetimes, it signifies ones influence, skill, and importance to the Weston-Yamada Corporation.
 
-
 - type: entity
   parent: RMCMedalBase
   id: RMCMedalRubyNametag
-  name: dedicated service name badge
+  name: crimson and black name badge
   description: A prestigious ruby-black name badge.
   components:
   - type: Sprite
@@ -510,12 +509,12 @@
   parent: RMCMedalRubyNametag
   id: RMCMedalRubyNametagService
   name: dedicated service name badge
-  description: An engraved crimson-and-black name badge, containing the wearer's name, rank, and department. Bestowed upon employees who have demostrated unwavering dedication, professionalism, and longstanding service to the Weston-Yamada Corporation.
+  description: A prestigious engraved crimson-and-black name badge, containing the wearer's name, rank, and department. Bestowed upon employees who have demostrated unwavering dedication, professionalism, and longstanding service to the Weston-Yamada Corporation.
 
 - type: entity
   parent: RMCMedalBase
   id: RMCMedalAmethystNametag
-  name: distinguished service name badge
+  name: purple and black name badge
   description: A prestigious purple-black name badge.
   componets: 
   - type: Sprite
@@ -530,5 +529,4 @@
   parent: RMCMedalAmethystNametag
   id: RMCMedalAmethystNametagService
   name: distinguished service name badge
-  description: A prestigious purple-and-black name badge, containing the wearer's name, rank, and department. Presented to employees whose longstanding service and unwavering dedication exemplify the professional standards of the Weston-Yamada Corporation.
-  
+  description: A prestigious engraved purple-and-black name badge, containing the wearer's name, rank, and department. Presented to employees whose longstanding service and unwavering dedication exemplify the professional standards of the Weston-Yamada Corporation.
