@@ -212,13 +212,13 @@
   id: RMCMedalEmerald
   name: emerald medal
   description: A revered emerald medal, only able to be handed out by High Command due to especially special circumstances.
- components:
+  components:
   - type: Sprite
-    sprite: _RMC14/Objects/Medals/emerald_nametag.rsi
+    sprite: _RMC14/Objects/Medals/emerald.rsi
     state: icon
   - type: UniformAccessory
     playerSprite:
-      sprite: _RMC14/Objects/Medals/emerald_nametag.rsi
+      sprite: _RMC14/Objects/Medals/emerald.rsi
       state: equipped
 
 - type: entity
