@@ -552,19 +552,19 @@
   name: exemplary service name badge
   description: An exclusive jade-and-black engraved name badge, containing the wearer's name, rank, and department. Awarded to employees whose exceptional record of service reflects the values and principles of the Weston-Yamada Corporation.
 
-  - type: entity
-    parent: RMCMedalBase
-    id: RMCMedalPrismaticNametag
-    name: orange and green name badge
-    description: an exclusive engraved orange-and-green name badge.
-    components:
-      - type: Sprite
-        sprite: _RMC14/Objects/Medals/prismatic_nametag.rsi
-        state: icon
-      - type: UniformAccessory
-        playerSprite:
-          sprite: _RMC14/Objects/Medals/prismatic_nametag.rsi
-          state: equipped
+- type: entity
+  parent: RMCMedalBase
+  id: RMCMedalPrismaticNametag
+  name: orange and green name badge
+  description: an exclusive engraved orange-and-green name badge.
+  components:
+  - type: Sprite
+    sprite: _RMC14/Objects/Medals/prismatic_nametag.rsi
+    state: icon
+  - type: UniformAccessory
+    playerSprite:
+      sprite: _RMC14/Objects/Medals/prismatic_nametag.rsi
+      state: equipped
 
   - type: entity
     parent: RMCMedalPrismaticNametag
