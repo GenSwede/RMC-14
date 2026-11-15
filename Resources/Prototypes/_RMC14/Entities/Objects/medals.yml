@@ -428,7 +428,7 @@
 - type: entity
   parent: RMCMedalBronzeNametag
   id: RMCMedalBronzeNametagService
-  name: junior executive name badge
+  name: bronze name badge
   description: An engraved bronze badge, containing the wearer's name, rank, and department. This one is given to those who have just begun to climb the Corporate ladder.
 
 - type: entity
@@ -448,8 +448,8 @@
 - type: entity
   parent: RMCMedalSilverNametag
   id: RMCMedalSilverNametagService
-  name: executive name badge
-  description: An engraved bright silver badge, containing the wearer's name, rank, and department. This one is given to those who have proven their worth to Weston-Yamada as a valuable employee.
+  name: silver name badge
+  description: An engraved bright silver name badge, containing the wearer's name, rank, and department. This one is given to those who have proven their worth to Weston-Yamada as a valuable employee.
 
 - type: entity
   parent: RMCMedalBase
@@ -468,8 +468,8 @@
 - type: entity
   parent: RMCMedalGoldNametag
   id: RMCMedalGoldNametagService
-  name: senior executive name badge
-  description: An engraved golden badge, containing the wearer's name, rank, and department. This one is rare, awarded to those who have shown their dedication to the Company, and has been deemed both a skilled and reliable asset.
+  name: golden name badge
+  description: An engraved golden name badge, bearing the wearer's name, rank, and department. This one is rare, awarded to those who have shown their dedication to the Company, and has been deemed both a skilled and reliable asset.
 
 - type: entity
   parent: RMCMedalBase
@@ -488,8 +488,8 @@
 - type: entity
   parent: RMCMedalPlatinumNametag
   id: RMCMedalPlatinumNametagService
-  name: executive specialist name badge
-  description: An engraved gold-and-black badge, containing the wearer's name, rank, and department. The highest rank most executives can reach within their lifetimes, it signifies one's influence, skill, and importance to the Weston-Yamada Corporation.
+  name: engraved gold and black name badge
+  description: An engraved gold-and-black name badge, bearing the wearer's name, rank, and department. This badge represents the highest rank most Corporate employees can reach within their lifetimes, it signifies one's influence, skill, and importance to the Weston-Yamada Corporation.
 
 - type: entity
   parent: RMCMedalBase
@@ -508,8 +508,8 @@
 - type: entity
   parent: RMCMedalRubyNametag
   id: RMCMedalRubyNametagService
-  name: dedicated service name badge
-  description: A prestigious engraved crimson-and-black name badge, containing the wearer's name, rank, and department. Bestowed upon employees who have demonstrated unwavering dedication, professionalism, and longstanding service to the Weston-Yamada Corporation.
+  name: name badge of esteemed service
+  description: A prestigious engraved crimson-and-black name badge, bearing the wearer's name, rank, and department. Bestowed upon employees who have demonstrated unwavering dedication, professionalism, and longstanding service to the Weston-Yamada Corporation.
 
 - type: entity
   parent: RMCMedalBase
@@ -528,8 +528,8 @@
 - type: entity
   parent: RMCMedalAmethystNametag
   id: RMCMedalAmethystNametagService
-  name: distinguished service name badge
-  description: A prestigious engraved purple-and-black name badge, containing the wearer's name, rank, and department. Presented to employees whose longstanding service and unwavering dedication exemplify the professional standards of the Weston-Yamada Corporation.
+  name: name badge of distinguished service
+  description: A prestigious engraved purple-and-black name badge, bearing the wearer's name, rank, and department. Presented to employees whose longstanding service and unwavering dedication exemplify the professional standards of the Weston-Yamada Corporation.
 
 
 - type: entity
@@ -549,8 +549,8 @@
 - type: entity
   parent: RMCMedalEmeraldNametag
   id: RMCMedalEmeraldNametagService
-  name: exemplary service name badge
-  description: An exclusive jade-and-black engraved name badge, containing the wearer's name, rank, and department. Awarded to employees whose exceptional record of service reflects the values and principles of the Weston-Yamada Corporation.
+  name: name badge of exemplary service
+  description: An exclusive jade-and-black engraved name badge, bearing the wearer's name, rank, and department. Awarded to employees whose exceptional record of service reflects the values and principles of the Weston-Yamada Corporation.
 
 - type: entity
   parent: RMCMedalBase
@@ -569,5 +569,5 @@
 - type: entity
   parent: RMCMedalPrismaticNametag
   id: RMCMedalPrismaticNametagService
-  name: exceptional service name badge
-  description: An exclusive orange-and-green engraved name badge, containing the wearer's name, rank, and department. Bestowed upon employees whose extraordinary record of service exemplifies the highest standards of loyalty, professionalism, and commitment to the Weston-Yamada Corporation.
+  name: name badge of exceptional service
+  description: An exclusive orange-and-green engraved name badge, bearing the wearer's name, rank, and department. Bestowed upon employees whose extraordinary record of service exemplifies the highest standards of loyalty, professionalism, and commitment to the Weston-Yamada Corporation.
