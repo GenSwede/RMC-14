@@ -448,7 +448,7 @@
 - type: entity
   parent: RMCMedalSilverNametag
   id: RMCMedalSilverNametagService
-  name: silver name badge
+  name: engraved silver name badge
   description: An engraved bright silver name badge, containing the wearer's name, rank, and department. This one is given to those who have proven their worth to Weston-Yamada as a valuable employee.
 
 - type: entity
@@ -468,14 +468,14 @@
 - type: entity
   parent: RMCMedalGoldNametag
   id: RMCMedalGoldNametagService
-  name: golden name badge
+  name: engraved golden name badge
   description: An engraved golden name badge, bearing the wearer's name, rank, and department. This one is rare, awarded to those who have shown their dedication to the Company, and has been deemed both a skilled and reliable asset.
 
 - type: entity
   parent: RMCMedalBase
   id: RMCMedalPlatinumNametag
-  name: gold and black name badge
-  description: A very prestigious gold-black name badge, handed out to those deemed worthy by the chief executives.
+  name: blue and black name badge
+  description: A very prestigious blue-black name badge, handed out to those deemed worthy by the chief executives.
   components:
   - type: Sprite
     sprite: _RMC14/Objects/Medals/plat_nametag.rsi
@@ -488,8 +488,8 @@
 - type: entity
   parent: RMCMedalPlatinumNametag
   id: RMCMedalPlatinumNametagService
-  name: engraved gold and black name badge
-  description: An engraved gold-and-black name badge, bearing the wearer's name, rank, and department. This badge represents the highest rank most Corporate employees can reach within their lifetimes, it signifies one's influence, skill, and importance to the Weston-Yamada Corporation.
+  name: engraved blue and black name badge
+  description: An engraved blue-and-black name badge, bearing the wearer's name, rank, and department. This badge represents the highest rank most Corporate employees can reach within their lifetimes, it signifies one's influence, skill, and importance to the Weston-Yamada Corporation.
 
 - type: entity
   parent: RMCMedalBase
