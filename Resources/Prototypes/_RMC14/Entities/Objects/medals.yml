@@ -430,7 +430,7 @@
   parent: RMCMedalBronzeNametag
   id: RMCMedalBronzeNametagService
   name: engraved bronze name badge
-  description: An engraved bronze badge, containing the wearer's name, rank, and department. This one is given to those who have just begun to climb the Corporate ladder.
+  description: An engraved bronze name badge, containing the wearer's name, rank, and department. This one is given to those who have just begun to climb the Corporate ladder.
 
 - type: entity
   parent: RMCMedalBase
@@ -450,7 +450,7 @@
   parent: RMCMedalSilverNametag
   id: RMCMedalSilverNametagService
   name: engraved silver name badge
-  description: An engraved bright silver name badge, containing the wearer's name, rank, and department. This one is given to those who have proven their worth to Weston-Yamada as a valuable employee.
+  description: A bright engraved silver name badge, containing the wearer's name, rank, and department. This one is given to those who have proven their worth to Weston-Yamada as a valuable employee.
 
 - type: entity
   parent: RMCMedalBase
@@ -475,7 +475,7 @@
 - type: entity
   parent: RMCMedalBase
   id: RMCMedalPlatinumNametag
-  name: blue and black name badge
+  name: platinum name badge
   description: A very prestigious blue-black name badge, handed out to those deemed worthy by the chief executives.
   components:
   - type: Sprite
@@ -489,13 +489,13 @@
 - type: entity
   parent: RMCMedalPlatinumNametag
   id: RMCMedalPlatinumNametagService
-  name: engraved blue and black name badge
+  name: engraved platinum name badge
   description: An engraved blue-and-black name badge, bearing the wearer's name, rank, and department. This badge represents the highest rank most Corporate employees can reach within their lifetimes, it signifies one's influence, skill, and importance to the Weston-Yamada Corporation.
 
 - type: entity
   parent: RMCMedalBase
   id: RMCMedalRubyNametag
-  name: crimson and black name badge
+  name: ruby and black name badge
   description: A prestigious engraved ruby-black name badge.
   components:
   - type: Sprite
@@ -509,13 +509,13 @@
 - type: entity
   parent: RMCMedalRubyNametag
   id: RMCMedalRubyNametagService
-  name: name badge of esteemed service
+  name: ruby name badge of esteemed service
   description: A prestigious engraved crimson-and-black name badge, bearing the wearer's name, rank, and department. Bestowed upon employees who have demonstrated unwavering dedication, professionalism, and longstanding service to the Weston-Yamada Corporation.
 
 - type: entity
   parent: RMCMedalBase
   id: RMCMedalAmethystNametag
-  name: purple and black name badge
+  name: amethyst and black name badge
   description: A prestigious engraved purple-black name badge.
   components:
   - type: Sprite
@@ -529,14 +529,14 @@
 - type: entity
   parent: RMCMedalAmethystNametag
   id: RMCMedalAmethystNametagService
-  name: name badge of distinguished service
+  name: amethyst name badge of distinguished service
   description: A prestigious engraved purple-and-black name badge, bearing the wearer's name, rank, and department. Presented to employees whose longstanding service and unwavering dedication exemplify the professional standards of the Weston-Yamada Corporation.
 
 
 - type: entity
   parent: RMCMedalBase
   id: RMCMedalEmeraldNametag
-  name: jade and black name badge
+  name: emerald and black name badge
   description: An exclusive engraved jade-and-black name badge.
   components:
   - type: Sprite
@@ -550,13 +550,13 @@
 - type: entity
   parent: RMCMedalEmeraldNametag
   id: RMCMedalEmeraldNametagService
-  name: name badge of exemplary service
+  name: emerald name badge of exemplary service
   description: An exclusive jade-and-black engraved name badge, bearing the wearer's name, rank, and department. Awarded to employees whose exceptional record of service reflects the values and principles of the Weston-Yamada Corporation.
 
 - type: entity
   parent: RMCMedalBase
   id: RMCMedalPrismaticNametag
-  name: orange and green name badge
+  name: prismatic orange and green name badge
   description: An exclusive engraved orange-and-green name badge.
   components:
   - type: Sprite
@@ -570,5 +570,5 @@
 - type: entity
   parent: RMCMedalPrismaticNametag
   id: RMCMedalPrismaticNametagService
-  name: name badge of exceptional service
+  name: prismatic name badge of exceptional service
   description: An exclusive orange-and-green engraved name badge, bearing the wearer's name, rank, and department. Bestowed upon employees whose extraordinary record of service exemplifies the highest standards of loyalty, professionalism, and commitment to the Weston-Yamada Corporation.
